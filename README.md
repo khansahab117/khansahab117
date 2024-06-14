@@ -1,18 +1,20 @@
+<div align="center">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amaan Khan
 ==================================================================================================================================
+<br />
 
-* 🌍  I'm based in Dallas, Tx
-* ✉️  You can contact me at [amaanasadkhan0@gmail.com](mailto:amaanasadkhan0@gmail.com)
-
-<a href="https://www.github.com/khansahab117" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/khansahab117?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/khansahab117" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amaan-khan-0b3a1211b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### 🌍  I'm based in Dallas, Tx
+### ✉️  You can contact me at [amaanasadkhan0@gmail.com](mailto:amaanasadkhan0@gmail.com)
+<br /><br />
 
 
-<div align="center">
+## Socials
+
+ <a href="https://www.github.com/khansahab117" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amaan-khan-0b3a1211b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+
+
+<br /><br />
 
 # Skills
 
@@ -37,12 +39,22 @@ src="https://img.shields.io/github/followers/khansahab117?logo=github&style=for-
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="36" height="36" alt="Spring Boot" /></a>
+
 ### Database
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
-### Scripting
+### GameDev 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36" height="36" alt="Unity" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+
+
+### Other Tools and Frameworks
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+<a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7657900?s=200&v=4" width="36" height="36" alt="Hyperledger Fabric" /></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" width="36" height="36" alt="Maven" /></a>
+
 
 
 <br /><br />
@@ -61,12 +73,7 @@ src="https://img.shields.io/github/followers/khansahab117?logo=github&style=for-
 
 <a href="https://github.com/khansahab117" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansahab117&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/khansahab117/https://github.com/khansahab117/VRCricketGame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khansahab117&repo=https://github.com/khansahab117/VRCricketGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/khansahab117/https://github.com/khansahab117/Shukr.Arts.Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khansahab117&repo=https://github.com/khansahab117/Shukr.Arts.Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/khansahab117/https://github.com/rodsters/CrunchTime" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khansahab117&repo=https://github.com/rodsters/CrunchTime&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/khansahab117/https://github.com/khansahab117/University-shopping-cart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khansahab117&repo=https://github.com/khansahab117/University-shopping-cart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+# ⬇️⬇️⬇️ Checkout My Pinned Repositories! ⬇️⬇️⬇️
 
 
 
