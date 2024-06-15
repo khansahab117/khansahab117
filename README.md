@@ -5,8 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br />
 
 ### 🌍  I'm based in Dallas, Tx
-### ✉️  You can contact me at [amaanasadkhan0@gmail.com](mailto:amaanasadkhan0@gmail.com)
-### 👥 Socials -  &nbsp; <a href="https://www.github.com/khansahab117" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amaan-khan-0b3a1211b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+### ✉️  You can contact me at ➡️ [amaanasadkhan0@gmail.com](mailto:amaanasadkhan0@gmail.com) , [amaan.asad117@gmail.com](mailto:amaan.asad117@gmail.com)
+### 👥 Socials ➡️ &nbsp; <a href="https://www.github.com/khansahab117" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/amaan-khan-0b3a1211b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+
+### This is my Resume/CV outlining my work experience. ➡️ [RESUME/CV](https://github.com/khansahab117/khansahab117/blob/main/resumejune14.pdf).
 
 
 <br /><br />
@@ -55,14 +57,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br /><br />
 
 
+# Featured Projects
+<table>
+  <tr>
+    <td><img src="https://github.com/khansahab117/khansahab117/raw/main/gifs/crunchtime-gif.gif" alt="Crunchtime" width="500"/></td>
+    <td><img src="https://github.com/khansahab117/khansahab117/raw/main/gifs/metacommercevr-gif.gif" alt="VR Grocery" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/khansahab117/khansahab117/raw/main/gifs/vrfurniturestore-gif.gif" alt="VR Furniture Store" width="500"/></td>
+    <td><img src="https://github.com/khansahab117/khansahab117/raw/main/gifs/vrcricket-gif.gif" alt="VR Cricket" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/khansahab117/khansahab117/blob/main/gifs/objectdetection-carttracker-gif.gif" alt="Object Detection" width="500"/></td>
+    <td><img src="https://github.com/khansahab117/khansahab117/raw/main/gifs/itinerarygenerator-frontpage-gif.gif" alt="Itinerary Generator" width="500"/></td>
+  </tr>
+</table>
+
+<br /><br />
 
 # Badges
 
 <b>My GitHub Stats</b>
-
-
-
-<a href="http://www.github.com/khansahab117"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khansahab117&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/khansahab117"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=khansahab117&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
